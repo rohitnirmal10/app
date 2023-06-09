@@ -5,5 +5,5 @@ dash_bootstrap_components
 pandas
 plotly
 alpha_vantage
-plotly.graph_objs
+plotly
 gunicorn
