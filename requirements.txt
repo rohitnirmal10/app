@@ -4,6 +4,6 @@ alpha_vantage
 dash_bootstrap_components
 pandas
 plotly
-alpha_vantage.timeseries
+alpha_vantage
 plotly.graph_objs
 gunicorn
